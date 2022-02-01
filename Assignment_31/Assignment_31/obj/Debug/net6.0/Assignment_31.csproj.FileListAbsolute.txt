@@ -1,0 +1,15 @@
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\obj\Debug\net6.0\Assignment_31.csproj.AssemblyReference.cache
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\obj\Debug\net6.0\Assignment_31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\obj\Debug\net6.0\Assignment_31.AssemblyInfoInputs.cache
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\obj\Debug\net6.0\Assignment_31.AssemblyInfo.cs
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\obj\Debug\net6.0\Assignment_31.csproj.CoreCompileInputs.cache
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\bin\Debug\net6.0\Assignment_31.exe
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\bin\Debug\net6.0\Assignment_31.deps.json
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\bin\Debug\net6.0\Assignment_31.runtimeconfig.json
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\bin\Debug\net6.0\Assignment_31.dll
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\bin\Debug\net6.0\ref\Assignment_31.dll
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\bin\Debug\net6.0\Assignment_31.pdb
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\obj\Debug\net6.0\Assignment_31.dll
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\obj\Debug\net6.0\ref\Assignment_31.dll
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\obj\Debug\net6.0\Assignment_31.pdb
+C:\Users\mihir patel\source\repos\Assignment_31\Assignment_31\obj\Debug\net6.0\Assignment_31.genruntimeconfig.cache

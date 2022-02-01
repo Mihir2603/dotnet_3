@@ -1,0 +1,14 @@
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\bin\Debug\net6.0\Assignment_32.exe
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\bin\Debug\net6.0\Assignment_32.deps.json
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\bin\Debug\net6.0\Assignment_32.runtimeconfig.json
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\bin\Debug\net6.0\Assignment_32.dll
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\bin\Debug\net6.0\ref\Assignment_32.dll
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\bin\Debug\net6.0\Assignment_32.pdb
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\obj\Debug\net6.0\Assignment_32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\obj\Debug\net6.0\Assignment_32.AssemblyInfoInputs.cache
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\obj\Debug\net6.0\Assignment_32.AssemblyInfo.cs
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\obj\Debug\net6.0\Assignment_32.csproj.CoreCompileInputs.cache
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\obj\Debug\net6.0\Assignment_32.dll
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\obj\Debug\net6.0\ref\Assignment_32.dll
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\obj\Debug\net6.0\Assignment_32.pdb
+C:\Users\mihir patel\source\repos\Assignment_32\Assignment_32\obj\Debug\net6.0\Assignment_32.genruntimeconfig.cache
